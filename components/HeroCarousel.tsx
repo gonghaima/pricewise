@@ -22,7 +22,6 @@ const HeroCarousel = () => {
         // interval={2000}
         showArrows={false}
         showStatus={false}
-        autoPlay={true}
       >
         {heroImages.map((image) => (
           <Image
