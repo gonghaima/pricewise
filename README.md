@@ -3,6 +3,9 @@
 19:37
 https://www.youtube.com/watch?v=lh9XVGv6BHs&list=WL&index=5&t=1034s
 
+a data url
+https://www.amazon.com.au/Apple-2023-MacBook-Laptop-chip/dp/B0C7648S9F/ref=sr_1_3_sspa?keywords=macbook%2Bair&qid=1705406084&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -39,4 +42,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
 # pricewise

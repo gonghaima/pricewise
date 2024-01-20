@@ -26,7 +26,7 @@ export async function scrapeAmazonProduct(url: string) {
   try {
     // Fetch the product page
     const response = await axios.get(url, options);
-    console.log(response.data);
+    // console.log(response.data);
     const $ = cheerio.load(response.data);
 
     // Extract the product title
@@ -80,7 +80,7 @@ export async function scrapeAmazonProduct(url: string) {
       averagePrice: Number(currentPrice) || Number(originalPrice),
     };
 
-    console.log({ data });
+    // console.log({ data });
 
     return data;
   } catch (error: any) {
