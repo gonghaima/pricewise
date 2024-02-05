@@ -1,12 +1,20 @@
-## Progress
+# Web Scraping
 
-19:37
-https://www.youtube.com/watch?v=lh9XVGv6BHs&list=WL&index=5&t=1034s
+Website
+https://pricewise-poetp2mzp-gonghaima1.vercel.app/
 
-a data url
+- Data scraping
+- Cron jobs
+    * create an account in cron-job.org
+    * get api url from vercel
+    * trigger the url in cron-job.org, with settings of frequency, etc
+- Sending emails
+- Deployment
+
+Data 1:
 https://www.amazon.com.au/Apple-2023-MacBook-Laptop-chip/dp/B0C7648S9F/ref=sr_1_3_sspa?keywords=macbook%2Bair&qid=1705406084&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
 
-second data item
+Data 2:
 https://www.amazon.com.au/Sennheiser-Open-Back-Special-Black/dp/B07Q7S7247/?_encoding=UTF8&ref_=dlx_deals_sc_dcl_img_dt_dealz_tdwdg&pd_rd_w=1ZT4C&content-id=amzn1.sym.ab35800a-5292-4d2b-896e-ca606e7e851f&pf_rd_p=ab35800a-5292-4d2b-896e-ca606e7e851f&pf_rd_r=FW741PGAMMS2J8ER2HQ3&pd_rd_wg=ThWJT&pd_rd_r=cf300a18-903c-4848-90f0-93e00542b6d1&th=1
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
